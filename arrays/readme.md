@@ -1,1 +1,1 @@
-this is a file
+this is a directory for experiments with arrays
